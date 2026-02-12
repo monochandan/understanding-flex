@@ -1,2 +1,2 @@
-Try to understand (here)[https://flex-box-understanding.netlify.app/]
+Try to understand [here](https://flex-box-understanding.netlify.app/)
 
